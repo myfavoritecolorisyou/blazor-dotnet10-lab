@@ -76,3 +76,4 @@ C:\Users\eunseok\source\repos\BlazorUnited\ServerManagement\obj\Debug\net9.0\com
 C:\Users\eunseok\source\repos\BlazorUnited\ServerManagement\obj\Debug\net9.0\compressed\q1ybacn7v6-{0}-0j3bgjxly4-0j3bgjxly4.gz
 C:\Users\eunseok\source\repos\BlazorUnited\ServerManagement\obj\Debug\net9.0\compressed\vs8lvukjw7-{0}-vww6th2gfr-vww6th2gfr.gz
 C:\Users\eunseok\source\repos\BlazorUnited\ServerManagement\obj\Debug\net9.0\compressed\8ywhk53zii-{0}-vww6th2gfr-vww6th2gfr.gz
+C:\Users\eunseok\source\repos\BlazorUnited\ServerManagement\obj\Debug\net9.0\ServerManagement.sourcelink.json
